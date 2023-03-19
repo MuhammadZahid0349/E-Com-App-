@@ -32,8 +32,8 @@ class SplashContent extends StatelessWidget {
         const Spacer(flex: 2),
         Image.asset(
           image!,
-          height: 265.h,
-          width: 235.w,
+          height: 300.h,
+          width: 300.w,
         ),
       ],
     );
